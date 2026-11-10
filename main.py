@@ -5,6 +5,8 @@ z = "Time"
 a = 5
 u = 1
 k = 100
+h = 100
+
 
 
 print(x)
