@@ -7,6 +7,7 @@ u = 1
 k = 100
 h = 100
 i = 50
+j =100
 
 
 
@@ -18,4 +19,5 @@ print(u)
 print(k)
 print(h)
 print(i)
+print(j)
 
