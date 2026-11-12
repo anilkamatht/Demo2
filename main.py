@@ -1,4 +1,4 @@
-#Python variables
+# python variables
 x = 5
 y = "Hello, World!"
 z = "Time"
@@ -13,5 +13,7 @@ print(x)
 print(y)
 print(z)
 print(a)
+print(u)
 print(k)
+print(h)
 
