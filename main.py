@@ -8,6 +8,7 @@ h = 100
 i = 50
 j =100
 t = 1000
+o = 555
 
 
 
@@ -21,4 +22,5 @@ print(h)
 print(i)
 print(j)
 print (t)
+print(o)
 
