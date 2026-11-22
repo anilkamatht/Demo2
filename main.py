@@ -1,5 +1,6 @@
 x = 5
 y = "Hello, World!"
+c = "Time"
 q = "Time"
 a = 5
 u = 1
@@ -14,6 +15,7 @@ o = 555
 
 print(x)
 print(y)
+print(c)
 print(q)
 print(a)
 print(u)
