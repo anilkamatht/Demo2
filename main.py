@@ -1,6 +1,6 @@
 x = 5
 y = "Hello, World!"
-q = "Time"
+z = "Time"
 a = 5
 u = 1
 k = 100
@@ -14,7 +14,7 @@ o = 555
 
 print(x)
 print(y)
-print(q)
+print(z)
 print(a)
 print(u)
 print(k)
