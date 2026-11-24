@@ -2,6 +2,7 @@ x = 5
 y = "Hello, World!"
 c = "Time"
 q = "Time"
+b = 78
 a = 5
 u = 1
 k = 100
@@ -17,6 +18,7 @@ print(x)
 print(y)
 print(c)
 print(q)
+print (b)
 print(a)
 print(u)
 print(k)
